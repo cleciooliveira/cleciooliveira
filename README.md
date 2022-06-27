@@ -4,7 +4,7 @@
 
 - 🔭 Atuo em alguns freelas (https://cleciooliveira.eti.br) onde utilizo meus conhecimentos em DEVOPS e desenvolvimento utilizando as linguagens de desenvolvimento Front-end (HTML, CSS e JavaScript) e Back-end (PHP e Java), Frameworks (Laravel, CodeIgniter), banco de dados (Postgree, SQL SERVER e ORACLE) e conhecimentos em UI/UX Design. Vasta experiência em segurança da informação, redes e infraestrutura também forneço consultorias também na área de infraestrutura de TI (Gestão de TI e Segurança, Cloud, Ambientes Windows e Linux, Firewall, Active Directory, Monitoramento e outros).
 
-- 🌱 Sempre estudando: atualmente projetos ágeis, phyton, automação e outros.
+- 🌱 Sempre estudando: atualmente projetos ágeis, python e outros.
 
 ## Contatos
 
